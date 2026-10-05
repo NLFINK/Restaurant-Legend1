@@ -1,0 +1,10 @@
+{
+  "short_name": "Rest. Legend",
+  "name": "Restaurant Legend",
+  "description": "Dine with confidence. Find allergy-safe restaurants with fully labeled menus.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#E07B39",
+  "background_color": "#FBF7F2"
+}
